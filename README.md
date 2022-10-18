@@ -7,4 +7,4 @@ This repository contains 4 different implementations of Face Detection using Pyt
 3. WebCamFaceDetection.py file contains implementation of the Viola Jones algorithm and face detection from computers video camera
 4. EyeDetection.py file contains implementation of face detection and eye detection from computers video camera
 
-All projects are using OpenCV *detectMultiScale* method that returns all the found faces in the photo. Also, all of them are using different classifiers (presented as XML files) to determine the rules of the face.
+All projects are using OpenCV *detectMultiScale* method that returns all the found faces in the photo/video. Also, all of them are using different classifiers (presented as XML files) to determine the rules of the face.
